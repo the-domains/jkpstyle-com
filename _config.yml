@@ -1,0 +1,23 @@
+name: jkpstyle.com
+favicon: null
+layout_spectrum: 0.3894131644628942
+typography_spectrum: 0.8414303231984377
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5422856481745839
+  lightness: 0.36759255290962756
+  saturation: 0.2102161559741944
+  rhythmicContrast: 0.20401676883921027
+purpose: []
