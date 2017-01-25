@@ -1,23 +1,59 @@
-name: jkpstyle.com
-favicon: null
-layout_spectrum: 0.3894131644628942
 typography_spectrum: 0.8414303231984377
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
   brandStrength: 0.5422856481745839
   lightness: 0.36759255290962756
   saturation: 0.2102161559741944
   rhythmicContrast: 0.20401676883921027
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3894131644628942
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: jkpstyle.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: This is a test website for JKP!
+description: He is the man!
+purpose:
+  - type: contact
+    url: 'mailto:jkpinpdx@gmail.com'
+    label: Contact me here
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d93156-87d7-4fb3-88cd-8badfd8128fd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d93156-87d7-4fb3-88cd-8badfd8128fd.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
